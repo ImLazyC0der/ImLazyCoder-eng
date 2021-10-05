@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImLazyCoder-eng
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSE engineering with all other extra stuffs.
-- 💞️ I’m looking to collaborate on something.
+-
 - 📫 i.am.hashy@gmail.com
 
 <!---
